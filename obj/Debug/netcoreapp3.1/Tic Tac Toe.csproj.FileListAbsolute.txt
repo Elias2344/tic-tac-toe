@@ -1,0 +1,11 @@
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.exe
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.deps.json
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.json
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.dev.json
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csprojAssemblyReference.cache
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\elias\Desktop\6to semestre\toeria de computacion\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.pdb
