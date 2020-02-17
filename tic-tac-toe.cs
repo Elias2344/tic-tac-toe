@@ -68,7 +68,7 @@ namespace Tic_Tac_Toe
           bool gameEnded = false;
           int turns = 0;
 
-          while (!gameEnded) {
+          /* while (!gameEnded) {
             InputRequest();
             turns++;
             //Check if user won
@@ -86,7 +86,7 @@ namespace Tic_Tac_Toe
               gameEnded = CheckThreeLines();
             }
 
-           
+            */
 
             gameEnded = CheckTreeLines() && IsMatrixFull();
           }
