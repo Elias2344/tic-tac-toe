@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elias\\Desktop\\6to semestre\\toeria de computacion\\Tic Tac Toe\\Tic Tac Toe.csproj",
+      "projectUniqueName": "C:\\Users\\elias\\Desktop\\6to semestre\\toeria de computacion\\tic-tac-toe\\Tic Tac Toe.csproj",
       "projectName": "Tic Tac Toe",
-      "projectPath": "C:\\Users\\elias\\Desktop\\6to semestre\\toeria de computacion\\Tic Tac Toe\\Tic Tac Toe.csproj",
+      "projectPath": "C:\\Users\\elias\\Desktop\\6to semestre\\toeria de computacion\\tic-tac-toe\\Tic Tac Toe.csproj",
       "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elias\\Desktop\\6to semestre\\toeria de computacion\\Tic Tac Toe\\obj\\",
+      "outputPath": "C:\\Users\\elias\\Desktop\\6to semestre\\toeria de computacion\\tic-tac-toe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config"

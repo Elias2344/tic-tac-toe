@@ -39,7 +39,7 @@ namespace Tic_Tac_Toe
         static void AddValue(char value, int y , int x) {
           //Necesitamos y, x
           //Necesitamos el valor a agregar ("X", "O")
-          matrix[y, x] = value
+          matrix[y, x] = value;
         }
         static void Main(string[] args)
         {
